@@ -33,7 +33,7 @@ En el siguiente documento se presenta el proyecto individual para la materia "Si
 Servo myservo;  // crea el objeto servo
 
 // GPIO de salida del servo
-static const int servoPin = 13;
+static const int servoPin = 18;
 
 // Reemplazar con tus credenciales de Wifi
 const char* ssid     = "TU-WIFI";
